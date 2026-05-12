@@ -18,7 +18,7 @@
                 Console.WriteLine("-------------------------");
                 Console.WriteLine("1 - Set the temprature  :");
                 Console.WriteLine("2 - Set the alarm value :");
-                Console.WriteLine("3 - Exit ");
+                Console.WriteLine("3 - Exit");
 
                 switch (Console.ReadLine())
                 {
