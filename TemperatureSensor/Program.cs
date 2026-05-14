@@ -9,7 +9,6 @@
             Display display = new Display();
             Alarm alarm = new Alarm();
 
-            // Subscribtion
             sensor.TemperatureChanged += display.ShowTemperature;
             sensor.TemperatureChanged += alarm.CheckTemperature;
 
