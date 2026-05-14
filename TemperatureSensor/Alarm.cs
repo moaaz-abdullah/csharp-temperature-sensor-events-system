@@ -25,7 +25,7 @@ namespace TemperatureSensor
             if (args.Temperature > AlarmValue)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
-                Console.WriteLine($"Temperature is > than the threshold {AlarmValue}");
+                Console.WriteLine($"Temperature is greater than the threshold {AlarmValue}");
                 Console.ForegroundColor = ConsoleColor.White;
             }
         }
