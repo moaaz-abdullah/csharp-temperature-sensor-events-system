@@ -102,7 +102,6 @@ Possible future enhancements:
 - Add async event handling
 - Store temperature history
 - Create GUI version
-- Add unit tests
 
 ---
 
