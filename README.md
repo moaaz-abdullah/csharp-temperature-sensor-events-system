@@ -101,7 +101,6 @@ Possible future enhancements:
 - Add multiple sensors
 - Add async event handling
 - Store temperature history
-- Create GUI version
 
 ---
 
